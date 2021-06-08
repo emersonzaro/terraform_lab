@@ -1,3 +1,3 @@
-# Boas práticas de programação envolvendo a ferramenta Terraform.
+Boas práticas de programação envolvendo a ferramenta Terraform.
 
 
