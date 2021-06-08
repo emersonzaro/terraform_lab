@@ -64,11 +64,11 @@ resource "aws_instance" "dev7" {
   vpc_security_group_ids = ["${aws_security_group.acesso-ssh-us-east-2.id}"]
 }
 resource "aws_s3_bucket" "dev4" {
-  bucket = "rmerceslabs-dev4"
+  bucket = "zaroslabs-dev4"
   acl    = "private"
 
   tags = {
-    Name = "rmerceslabs-dev4"
+    Name = "zaroslabs-dev4"
   }
 }
 
