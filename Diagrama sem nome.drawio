@@ -1,4 +1,4 @@
-<mxfile modified="2022-08-17T21:45:57.009Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="jy8AC1-7RxsH6622nArZ" version="20.2.4" type="github">
+<mxfile modified="2022-08-17T22:50:01.440Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="3OekvfmKs4S75lCtyY4z" version="20.2.4" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1422" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="1rJHCLjxZAj-tCfooPcw-9" value="Bucket S3&lt;br&gt;conteúdo&lt;br&gt;estático" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="UEzPUAAOIrF-is8g5C7q-205" vertex="1">
           <mxGeometry y="330" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1rJHCLjxZAj-tCfooPcw-26" value="Poderia ser usado outra zona de disponibilidade mas não ficou certo o quanto o cliente gostaria de gastar ao replicar&#xa;os recursos logo abaixo&#xa;" style="rounded=1;arcSize=10;dashed=1;strokeColor=#F59D56;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=2;fontSize=10;" parent="UEzPUAAOIrF-is8g5C7q-205" vertex="1">
+        <mxCell id="1rJHCLjxZAj-tCfooPcw-26" value="Poderia ser usado outra zona de disponibilidade mas não ficou certo o quanto o cliente gostaria de gastar ao replicar&#xa;os recursos logo abaixo&#xa;" style="rounded=1;arcSize=10;dashed=1;strokeColor=#F59D56;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=2;fontSize=10;fontStyle=1" parent="UEzPUAAOIrF-is8g5C7q-205" vertex="1">
           <mxGeometry x="243" y="50" width="575" height="100" as="geometry" />
         </mxCell>
         <mxCell id="1rJHCLjxZAj-tCfooPcw-27" value="&lt;font color=&quot;#ff8000&quot;&gt;Zona de Disponibilidade&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="UEzPUAAOIrF-is8g5C7q-205" vertex="1">
